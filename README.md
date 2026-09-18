@@ -10,8 +10,8 @@ I build **reliable cloud infrastructure, automated CI/CD pipelines, containerize
 
 ## 🧑‍💻 About Me
 
-- 🔹 7.5+ years of IT experience
-- 🔹 5+ years of experience in DevOps & Cloud
+- 🔹 8+ years of IT experience
+- 🔹 6+ years of experience in DevOps & Cloud
 - ☁️ AWS Cloud & Infrastructure
 - ⚙️ Infrastructure as Code with Terraform
 - 🚀 CI/CD automation with Jenkins & GitHub Actions
